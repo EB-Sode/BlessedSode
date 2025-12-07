@@ -7,7 +7,7 @@
 <!-- HEADER SECTION -->
 <h1 align="center">Hi, I'm Blessed Sode 👋</h1>
 <p align="center">
-  <strong>Back-End Software Engineer | Front-End software Engineer | Cyber Security analyst | Aspiring DevSecOps</strong>
+  <strong>Back-End Software Engineer | Front-End software Engineer | Cyber Security analyst | DevSecOps</strong>
 </p>
 
 <!-- ABOUT ME -->
