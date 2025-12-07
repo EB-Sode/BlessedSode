@@ -8,9 +8,6 @@
 
 ## 🚀 About Me  
 I’m a dedicated and evolving **Full-Stack Developer** with a strong background in backend engineering, combined with hands-on experience in cybersecurity, DevOps, and cloud technologies.
-
-In 2025, I completed an intensive **8-month Backend Software Engineering Program**, and I am currently in **month 6 of an 8-month Frontend Development Program**, sharpening my skills in React, Next.js, TypeScript, and modern UI/UX development.
-
 My mission is to become a world-class engineer capable of building secure, scalable, and user-centered systems — from backend architecture to front-end interfaces.
 
 ---
